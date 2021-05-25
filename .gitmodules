@@ -28,3 +28,15 @@
 [submodule "Desafios/Desafio-11-GoRestaurant-Mobile"]
 	path = Desafios/Desafio-11-GoRestaurant-Mobile
 	url = https://github.com/JuDCraide/Desafio-11-GoRestaurant-Mobile
+[submodule "Módulos/Nível 1/Backend-com-Node"]
+	path = Módulos/Nível 1/Backend-com-Node
+	url = https://github.com/JuDCraide/Backend-com-Node
+[submodule "Módulos/Nível 1/Frontend-com-ReactJS"]
+	path = Módulos/Nível 1/Frontend-com-ReactJS
+	url = https://github.com/JuDCraide/Frontend-com-ReactJS
+[submodule "Módulos/Nível 1/Mobile-com-React-Native"]
+	path = Módulos/Nível 1/Mobile-com-React-Native
+	url = https://github.com/JuDCraide/Mobile-com-React-Native
+[submodule "Módulos/Nível 1/TypeScript"]
+	path = Módulos/Nível 1/TypeScript
+	url = https://github.com/JuDCraide/TypeScript
