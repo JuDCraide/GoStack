@@ -55,3 +55,12 @@
 [submodule "Módulos/Nível 3/Iniciando aplicativo mobile"]
 	path = Módulos/Nível 3/Iniciando aplicativo mobile
 	url = https://github.com/JuDCraide/Mobile-GoBarber
+[submodule "Módulos/Nível 4/Arquitetura e testes no Node.js"]
+	path = Módulos/Nível 4/Arquitetura e testes no Node.js
+	url = https://github.com/JuDCraide/Backend-GoBarber
+[submodule "Módulos/Nível 4/Continuando back-end do app"]
+	path = Módulos/Nível 4/Continuando back-end do app
+	url = https://github.com/JuDCraide/Backend-GoBarber
+[submodule "Módulos/Nível 4/Finalizando back-end do app"]
+	path = Módulos/Nível 4/Finalizando back-end do app
+	url = https://github.com/JuDCraide/Backend-GoBarber
