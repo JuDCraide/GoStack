@@ -40,3 +40,9 @@
 [submodule "Módulos/Nível 1/TypeScript"]
 	path = Módulos/Nível 1/TypeScript
 	url = https://github.com/JuDCraide/TypeScript
+[submodule "Módulos/Nível 2/Primeiro projeto com Node.JS"]
+	path = Módulos/Nível 2/Primeiro projeto com Node.JS
+	url = https://github.com/JuDCraide/Backend-GoBarber/
+[submodule "Módulos/Nível 2/Iniciando back-end do app"]
+	path = Módulos/Nível 2/Iniciando back-end do app
+	url = https://github.com/JuDCraide/Backend-GoBarber/
