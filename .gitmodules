@@ -73,3 +73,12 @@
 [submodule "Módulos/Nível 5/Finalizando front-end mobile do app"]
 	path = Módulos/Nível 5/Finalizando front-end mobile do app
 	url = https://github.com/JuDCraide/Mobile-GoBarber
+[submodule "Módulos/Nível 6/Deploy de aplicações Node.JS"]
+	path = Módulos/Nível 6/Deploy de aplicações Node.JS
+	url = https://github.com/JuDCraide/Backend-GoBarber
+[submodule "Módulos/Nível 6/Deploy de aplicações ReactJS"]
+	path = Módulos/Nível 6/Deploy de aplicações ReactJS
+	url = https://github.com/JuDCraide/Frontend-GoBarber
+[submodule "Módulos/Nível 6/Publicação de apps com React Native"]
+	path = Módulos/Nível 6/Publicação de apps com React Native
+	url = https://github.com/JuDCraide/Mobile-GoBarber
