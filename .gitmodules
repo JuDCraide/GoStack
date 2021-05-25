@@ -1,0 +1,30 @@
+[submodule "Desafios/Desafio-02-Conceitos-do-Node.js"]
+	path = Desafios/Desafio-02-Conceitos-do-Node.js
+	url = https://github.com/JuDCraide/Desafio-02-Conceitos-do-Node.js
+[submodule "Desafios/Desafio-03-Conceitos-do-ReactJS"]
+	path = Desafios/Desafio-03-Conceitos-do-ReactJS
+	url = https://github.com/JuDCraide/Desafio-03-Conceitos-do-ReactJS
+[submodule "Desafios/Desafio-04-Conceitos-do-React-Native"]
+	path = Desafios/Desafio-04-Conceitos-do-React-Native
+	url = https://github.com/JuDCraide/Desafio-04-Conceitos-do-React-Native
+[submodule "Desafios/Desafio-05-Primeiro-projeto-Node.js"]
+	path = Desafios/Desafio-05-Primeiro-projeto-Node.js
+	url = https://github.com/JuDCraide/Desafio-05-Primeiro-projeto-Node.js
+[submodule "Desafios/Desafio-06-Banco-de-dados-e-upload-de-arquivos-no-Node.js"]
+	path = Desafios/Desafio-06-Banco-de-dados-e-upload-de-arquivos-no-Node.js
+	url = https://github.com/JuDCraide/Desafio-06-Banco-de-dados-e-upload-de-arquivos-no-Node.js
+[submodule "Desafios/Desafio-07-GoFinances-Web"]
+	path = Desafios/Desafio-07-GoFinances-Web
+	url = https://github.com/JuDCraide/Desafio-07-GoFinances-Web
+[submodule "Desafios/Desafio-08-Fundamentos-do-React-Native"]
+	path = Desafios/Desafio-08-Fundamentos-do-React-Native
+	url = https://github.com/JuDCraide/Desafio-08-Fundamentos-do-React-Native
+[submodule "Desafios/Desafio-09-Relacionamentos-com-banco-de-dados-no-Node.js"]
+	path = Desafios/Desafio-09-Relacionamentos-com-banco-de-dados-no-Node.js
+	url = https://github.com/JuDCraide/Desafio-09-Relacionamentos-com-banco-de-dados-no-Node.js
+[submodule "Desafios/Desafio-10-GoRestaurant-Web"]
+	path = Desafios/Desafio-10-GoRestaurant-Web
+	url = https://github.com/JuDCraide/Desafio-10-GoRestaurant-Web
+[submodule "Desafios/Desafio-11-GoRestaurant-Mobile"]
+	path = Desafios/Desafio-11-GoRestaurant-Mobile
+	url = https://github.com/JuDCraide/Desafio-11-GoRestaurant-Mobile
