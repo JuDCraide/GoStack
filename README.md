@@ -14,7 +14,7 @@
 ## :information_source: Sobre o GoStack
 Esse repositório contém projetos desenvolvidos durante o GoStack, bootcamp realizado pela Rocketseat, o qual participei na turma 14. Os cursos ensinam de desenvolvimento web e mobile focado em tecnologias do universo JavaScript, como: Typescript, Node.js, ReactJS e React Native.
 
-Minhas anotações durante os cursos: https://mirror-death-5c7.notion.site/GoStack-c44f637f2b614d7c90f4226d69360d26
+Minhas anotações no Notion durante os cursos: https://mirror-death-5c7.notion.site/GoStack-c44f637f2b614d7c90f4226d69360d26
 
 ## :scroll: Certificados
 - <a href="https://github.com/JuDCraide/GoStack/blob/main/CertificadoGoStack.pdf"> Certificado GoStack Português</a>
@@ -26,126 +26,125 @@ O cronograma do curso é dividido em uma semana de preparação e 6 semanas, ou 
 
 #### Semana de Preparação
     
-##### Preparando os estudos
+- ##### Preparando os estudos
     
-Nessa fase vamos conhecer metodologias e técnicas para facilitar o aprendizado, fixar o conhecimento e aplicar tudo isso em nosso desenvolvimento pessoal e profissional. Entenderemos também como montar um cronograma de estudos.
+    Nessa fase vamos conhecer metodologias e técnicas para facilitar o aprendizado, fixar o conhecimento e aplicar tudo isso em nosso desenvolvimento pessoal e profissional. Entenderemos também como montar um cronograma de estudos.
     
-##### Ambiente de Desenvolvimento
+- ##### Ambiente de Desenvolvimento
     
-Nessa fase iremos configurar as ferramentas que serão essenciais para construir as aplicações durante a jornada como o nosso editor de código, plugins, tema, extensões do navegador e ferramentas de desenvolvimento.
+    Nessa fase iremos configurar as ferramentas que serão essenciais para construir as aplicações durante a jornada como o nosso editor de código, plugins, tema, extensões do navegador e ferramentas de desenvolvimento.
 
-##### Desafio 01: Organizando seus estudos
-Bora criar um cronograma de estudos e definir seu objetivo
+- ##### Desafio 01: Organizando seus estudos
+    Bora criar um cronograma de estudos e definir seu objetivo
 
 #### Semana 01
 Nessa fase conheceremos a maioria dos conceitos para entrar de cabeça no Node.js, ReactJS e React Native. Vamos construir nossa primeira aplicação integrando as três ferramentas.
 
-##### Back-end com Node.js
-Nesse módulo iremos conhecer os primeiros conceitos do Node.js e aplicá-los na construção da nossa primeira aplicação backend.
+- ##### Back-end com Node.js
+    Nesse módulo iremos conhecer os primeiros conceitos do Node.js e aplicá-los na construção da nossa primeira aplicação backend.
     
-##### Desafio 02: Conceitos do Node.js
-Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no Node.js!
+- ##### Desafio 02: Conceitos do Node.js
+    Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no Node.js!
 
-##### Front-end com ReactJS
-Agora continuaremos na nossa jornada, conhecendo os primeiros conceitos do ReactJS. Desenvolveremos a nossa primeira aplicação web e vamos conecta-la no backend que criamos no último módulo.
+- ##### Front-end com ReactJS
+    Agora continuaremos na nossa jornada, conhecendo os primeiros conceitos do ReactJS. Desenvolveremos a nossa primeira aplicação web e vamos conecta-la no backend que criamos no último módulo.
 
-##### Desafio 03: Conceitos do ReactJS
-Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no ReactJS!
+- ##### Desafio 03: Conceitos do ReactJS
+    Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no ReactJS!
 
-##### Mobile com React Native
-Partimos para o mundo do mobile, conhecendo os conceitos do React Native e desenvolvendo nossa primeira aplicação que irá se conectar com nosso backend.
+- ##### Mobile com React Native
+    Partimos para o mundo do mobile, conhecendo os conceitos do React Native e desenvolvendo nossa primeira aplicação que irá se conectar com nosso backend.
 
-##### Desafio 04: Conceitos do React Native
-Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no React-Native!
+- ##### Desafio 04: Conceitos do React Native
+    Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no React-Native!
 
-##### TypeScript
-Vamos agora aprender os primeiros conceitos de TypeScript e aplicar nos projetos que já desenvolvemos até aqui.
+- ##### TypeScript
+    Vamos agora aprender os primeiros conceitos de TypeScript e aplicar nos projetos que já desenvolvemos até aqui.
 
 #### Semana 02
     
-##### Primeiro projeto com Node.js
+- ##### Primeiro projeto com Node.js
     
-Nessa fase vamos aprender a configurar um projeto do total zero, utilizando Node.js e TypeScript, incluindo ferramentas como ts-node-dev, ESLint, Prettier e EditorConfig. Ainda durante essas aulas entenderemos sobre técnicas para debugar e entender os erros que acontecem no nosso código.
+    Nessa fase vamos aprender a configurar um projeto do total zero, utilizando Node.js e TypeScript, incluindo ferramentas como ts-node-dev, ESLint, Prettier e EditorConfig. Ainda durante essas aulas entenderemos sobre técnicas para debugar e entender os erros que acontecem no nosso código.
 
-##### Desafio 05: Fundamentos Node.js
-Nesse desafio, você deve criar uma aplicação para continuar treinando o que você aprendeu até agora no Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services!
+- ##### Desafio 05: Fundamentos Node.js
+    Nesse desafio, você deve criar uma aplicação para continuar treinando o que você aprendeu até agora no Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services!
 
-##### Iniciando o back-end do GoBarber
+- ##### Iniciando o back-end do GoBarber
 
-Nessa etapa vamos continuar os aprendizados com Node.js, aproveitando o projeto desenvolvido até agora para começar a trabalhar com conceitos de banco de dados, autenticação, autorização, envio de e-mails, upload de imagens e muito mais.
+    Nessa etapa vamos continuar os aprendizados com Node.js, aproveitando o projeto desenvolvido até agora para começar a trabalhar com conceitos de banco de dados, autenticação, autorização, envio de e-mails, upload de imagens e muito mais.
 
-##### Desafio 06: Database upload
-Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, treinando o que você aprendeu até agora no Node.js junto ao TypeScript, mas dessa vez incluindo o uso de banco de dados com o TypeORM e envio de arquivos com o Multer!
+- ##### Desafio 06: Database upload
+    Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, treinando o que você aprendeu até agora no Node.js junto ao TypeScript, mas dessa vez incluindo o uso de banco de dados com o TypeORM e envio de arquivos com o Multer!
 
 #### Semana 03
 
-##### Primeiro projeto com React
-Nessa etapa daremos início ao aprendizado do ReactJS, criando o primeiro projeto já utilizando TypeScript. Construiremos um projeto conectando à API do Github armazenando informações de perfis de usuário na rede.
+- ##### Primeiro projeto com React
+    Nessa etapa daremos início ao aprendizado do ReactJS, criando o primeiro projeto já utilizando TypeScript. Construiremos um projeto conectando à API do Github armazenando informações de perfis de usuário na rede.
 
-##### Desafio 07: Fundamentos ReactJS
-Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, a GoFinances. Agora você irá praticar o que você aprendeu até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
+- ##### Desafio 07: Fundamentos ReactJS
+    Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, a GoFinances. Agora você irá praticar o que você aprendeu até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
 
-##### Iniciando front-end do GoBarber
-Durante esse módulo daremos início na criação da versão web da aplicação GoBarber que será utilizada pelos prestadores de serviço da aplicação para visualizar os agendamentos e selecionar o horário de atendimento.
+- ##### Iniciando front-end do GoBarber
+    Durante esse módulo daremos início na criação da versão web da aplicação GoBarber que será utilizada pelos prestadores de serviço da aplicação para visualizar os agendamentos e selecionar o horário de atendimento.
 
-##### Iniciando aplicativo mobile do GoBarber
-Nessa fase daremos início ao desenvolvimento do aplicativo mobile para iOS e Android do GoBarber que será utilizado para agendamento de serviços com os prestadores de serviço da aplicação.
+- ##### Iniciando aplicativo mobile do GoBarber
+    Nessa fase daremos início ao desenvolvimento do aplicativo mobile para iOS e Android do GoBarber que será utilizado para agendamento de serviços com os prestadores de serviço da aplicação.
 
-##### Desafio 08: Fundamentos React-Native
-Nesse desafio, desenvolverá uma nova aplicação, a GoMarketplace. Dessa vez é hora de você praticar o que você aprendeu até agora no React Native, junto com TypeScript, utilizando rotas, Async Storage e a Context API.
+- ##### Desafio 08: Fundamentos React-Native
+    Nesse desafio, desenvolverá uma nova aplicação, a GoMarketplace. Dessa vez é hora de você praticar o que você aprendeu até agora no React Native, junto com TypeScript, utilizando rotas, Async Storage e a Context API.
 
 #### Semana 04
 
-##### Arquitetura e testes no Node.js
+- ##### Arquitetura e testes no Node.js
 
-Nessa etapa, continuaremos o projeto iniciado anteriormente adicionando pontos cruciais de arquitetura, design patterns e testes automatizados. 
+    Nessa etapa, continuaremos o projeto iniciado anteriormente adicionando pontos cruciais de arquitetura, design patterns e testes automatizados. 
+    Durante as aulas iremos reformular toda estrutura de pastas do projeto aplicando conceitos do SOLID e injeção de dependência para isolar o comportamento dos módulos da aplicação.
 
-Durante as aulas iremos reformular toda estrutura de pastas do projeto aplicando conceitos do SOLID e injeção de dependência para isolar o comportamento dos módulos da aplicação.
+- ##### Continuando back-end GoBarber
 
-##### Continuando back-end GoBarber
+    Durante esse módulo iremos aprender conceitos mais complexos do back-end da aplicação como relacionamentos complexos, trabalhos em segundo plano, cache, bancos de dados não-relacionais e segurança. 
 
-Durante esse módulo iremos aprender conceitos mais complexos do back-end da aplicação como relacionamentos complexos, trabalhos em segundo plano, cache, bancos de dados não-relacionais e segurança. 
+- ##### Finalizando back-end GoBarber
+    Nesse módulo finalizaremos nosso back-end incluindo as últimas funcionalidades do app e também aprendendo conceitos como MongoDB, variáveis ambiente, validação, cache, segurança, etc.
+    Até o fim das aulas finalizaremos a aplicação GoBarber criando toda estrutura necessária para finalizar as aplicações web e mobile que dependem desse back-end.
 
-##### Finalizando back-end GoBarber
-Nesse módulo finalizaremos nosso back-end incluindo as últimas funcionalidades do app e também aprendendo conceitos como MongoDB, variáveis ambiente, validação, cache, segurança, etc.
-Até o fim das aulas finalizaremos a aplicação GoBarber criando toda estrutura necessária para finalizar as aplicações web e mobile que dependem desse back-end.
-
-##### Desafio 09: Database relations
-Nesse desafio, você vai estar criando uma nova aplicação para aprender novas coisas e treinar o que você aprendeu até agora no Node.js junto ao TypeScript, incluindo o uso de banco de dados com o TypeORM, e relacionamentos ManyToMany!
+- ##### Desafio 09: Database relations
+    Nesse desafio, você vai estar criando uma nova aplicação para aprender novas coisas e treinar o que você aprendeu até agora no Node.js junto ao TypeScript, incluindo o uso de banco de dados com o TypeORM, e relacionamentos ManyToMany!
 
 #### Semana 05
 
-##### Finalizando front-end do GoBarber
+- ##### Finalizando front-end do GoBarber
 
-Nessa etapa continuaremos o desenvolvimento do front-end web da aplicação GoBarber criando as telas e funções que os prestadores de serviço utilizarão para consultar sua agenda e disponibilidade.
+    Nessa etapa continuaremos o desenvolvimento do front-end web da aplicação GoBarber criando as telas e funções que os prestadores de serviço utilizarão para consultar sua agenda e disponibilidade.
 
-##### Desafio 10: GoRestaurant Web
-Nesse desafio, você irá desenvolver mais uma aplicação, a GoRestaurant. Agora você irá praticar o que você aprendeu até agora no React.js junto com TypeScript, praticando o conceito de CRUD (Create, Read, Update, Delete).
+- ##### Desafio 10: GoRestaurant Web
+    Nesse desafio, você irá desenvolver mais uma aplicação, a GoRestaurant. Agora você irá praticar o que você aprendeu até agora no React.js junto com TypeScript, praticando o conceito de CRUD (Create, Read, Update, Delete).
 
-##### Finalizando app mobile do GoBarber
+- ##### Finalizando app mobile do GoBarber
 
-Durante essas aulas, continuaremos o aplicativo mobile com React Native do GoBarber que será utilizado pelos clientes para agendar serviços com os prestadores.
+    Durante essas aulas, continuaremos o aplicativo mobile com React Native do GoBarber que será utilizado pelos clientes para agendar serviços com os prestadores.
 
-##### Desafio 11: GoRestaurant Mobile
-Nesse desafio, você irá desenvolver mais uma aplicação, a GoRestaurant, só que dessa vez a versão mobile para o cliente. Agora você irá praticar o que você aprendeu até agora no React Native junto com TypeScript, para criar um pequeno app para pedidos de comida.
+- ##### Desafio 11: GoRestaurant Mobile
+    Nesse desafio, você irá desenvolver mais uma aplicação, a GoRestaurant, só que dessa vez a versão mobile para o cliente. Agora você irá praticar o que você aprendeu até agora no React Native junto com TypeScript, para criar um pequeno app para pedidos de comida.
 
-##### Testes no React
+- ##### Testes no React
 
-Nesse módulo, conheceremos as principais ferramentas do ecossistema do React para testar nossas aplicações a fim de garantir que o usuário tenha a mesma experiência com a parte visual da aplicação independente de quantas funcionalidades sejam adicionadas.
+    Nesse módulo, conheceremos as principais ferramentas do ecossistema do React para testar nossas aplicações a fim de garantir que o usuário tenha a mesma experiência com a parte visual da aplicação independente de quantas funcionalidades sejam adicionadas.
 
 #### Semana 06
 
-##### Deploy de aplicações Node.js
+- ##### Deploy de aplicações Node.js
 
-Com nossa aplicação pronta, podemos partir para sua publicação a fim disponibilizar nossa API em um endereço público acessível pelos apps front-end e mobile. Aqui também aprenderemos sobre integração contínua e deploy contínuo.
+    Com nossa aplicação pronta, podemos partir para sua publicação a fim disponibilizar nossa API em um endereço público acessível pelos apps front-end e mobile. Aqui também aprenderemos sobre integração contínua e deploy contínuo.
 
-##### Deploy de aplicações ReactJS
+- ##### Deploy de aplicações ReactJS
 
-O front-end web da aplicação não precisa utilizar dos mesmos recursos que o back-end e por isso as estratégias de deploy também mudam. Entenderemos as melhores opções para enviar nosso app à produção.
+    O front-end web da aplicação não precisa utilizar dos mesmos recursos que o back-end e por isso as estratégias de deploy também mudam. Entenderemos as melhores opções para enviar nosso app à produção.
 
-##### Publicação de apps React Native
+- ##### Publicação de apps React Native
 
-Com o app pronto, nesse módulo aprenderemos a enviar a aplicação para Android à Google Play Store e o app iOS para Apple Store para disponibilizarmos nossa aplicação para o mundo.
+    Com o app pronto, nesse módulo aprenderemos a enviar a aplicação para Android à Google Play Store e o app iOS para Apple Store para disponibilizarmos nossa aplicação para o mundo.
 
 
 ## :books: Tecnologias e ferramentas
